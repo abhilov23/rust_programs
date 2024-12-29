@@ -1,4 +1,4 @@
-#![allow(unused)]
+#![allow(unused)] //allows the compiler to ignore any unused code warnings
 
 // Scalar types represent a single value
 fn main() {
